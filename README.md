@@ -45,13 +45,13 @@
 ## 🕹️ **Cómo Jugar**
 
 - **Movimiento**:  
-  Usa las **teclas de flecha** para mover a tu personaje por la mazmora.
+  Usa las teclas **W,A,S,D** para mover a tu personaje por la mazmora.
 
 - **Ataques**:  
-  Los **ataques** se ejecutan automáticamente cuando tu personaje está cerca de un enemigo. ¡Asegúrate de estar cerca para que el ataque se active!
+  Los **ataques** se ejecutan cuando presiones la tecla espacio. ¡Asegúrate de estar cerca para que el ataque se active!
 
 - **Recogida de monedas**:  
-  Las **monedas** caen al derrotar enemigos. Recoge **50 monedas** para abrir el portal y avanzar al final del juego.
+  Las **monedas** caen al derrotar enemigos. Recoge **50 monedas (acercate para recojerlas)** para abrir el portal y avanzar al final del juego.
 
 ---
 
@@ -59,7 +59,7 @@
 
 - **Java 8+**: La base del proyecto se desarrolla en Java, utilizando las características más recientes del lenguaje.
 - **Swing**: Para la creación de la **interfaz gráfica de usuario (GUI)**.
-- **Colecciones**: Se usan para manejar los enemigos y las monedas de manera eficiente durante el juego.
+- **Colecciones**: Se usan para manejar los enemigos de manera eficiente durante el juego.
 
 ---
 
