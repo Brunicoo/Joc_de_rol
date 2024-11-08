@@ -7,9 +7,9 @@
 ## 📜 **Características del juego**
 
 - **Elección de personaje**: Al comenzar el juego, puedes elegir entre tres clases de personajes:
-  - 🗡️ **Soldado**: Fuerte en combate cuerpo a cuerpo.
-  - 🔮 **Mago**: Usa poderosos hechizos para derrotar a los enemigos.
-  - ✨ **Cura**: Sana a sí mismo y a otros personajes, manteniendo a tu equipo con vida.
+  - 🗡️ **Soldado**: Mata de un golpe pero es cuerpo a cuerpo.
+  - 🔮 **Mago**: Lanza bolas de fuego con las que mata rapido a sus enemigos pero tiene poca vida, tambien es muy rapido.
+  - ✨ **Cura**: Tiene menos potencia de ataque que los otros dos personajes. Es mas rapido que el soldado, y tiene menos vidas que el mago.
   
 - **Mazmorras generadas aleatoriamente**: Al elegir tu personaje, serás transportado a una mazmora donde los **enemigos** aparecerán al azar.
   
